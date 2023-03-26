@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082919541361",
+    "project_id": "newsapp-afc5e",
+    "storage_bucket": "newsapp-afc5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082919541361:android:30c6a904a62babf1ae19d0",
+        "android_client_info": {
+          "package_name": "com.xcenter.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082919541361-fvasjmrccj3h4381d78eue5vera14hbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb2JwanwGt_RjvDB29p99YGMP9VAPouNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082919541361-fvasjmrccj3h4381d78eue5vera14hbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
